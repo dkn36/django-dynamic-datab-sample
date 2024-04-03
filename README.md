@@ -1,0 +1,1 @@
+# django-dynamic-datab-sample
